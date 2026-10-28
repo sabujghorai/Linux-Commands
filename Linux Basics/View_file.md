@@ -35,3 +35,31 @@ ln -s - Difference between soft links and hard links
 ln -h - Practical Linux file management
 
 ---
+
+
+sudo apt update
+clear
+history
+clear
+pwd
+ls
+cd Desktop/
+ls
+cat file.txt
+less file.txt
+clear
+history
+sudo apt update
+clear
+sudo apt install build-essential dkms linux-headers-$(uname -r)
+uname -a
+sudo reboot
+pwd
+ls
+cd Desktop/
+ls
+cat file.txt
+less file.txt
+ls
+clear
+history

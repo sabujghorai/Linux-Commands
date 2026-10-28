@@ -36,30 +36,16 @@ ln -h - Practical Linux file management
 
 ---
 
+## Linux Basic Commands
 
-sudo apt update
-clear
-history
-clear
-pwd
-ls
-cd Desktop/
-ls
-cat file.txt
-less file.txt
-clear
-history
-sudo apt update
-clear
-sudo apt install build-essential dkms linux-headers-$(uname -r)
-uname -a
-sudo reboot
-pwd
-ls
-cd Desktop/
-ls
-cat file.txt
-less file.txt
-ls
-clear
-history
+- `sudo apt update`
+- `clear`
+- `history`
+- `pwd`
+- `ls`
+- `cd Desktop/`
+- `cat file.txt`
+- `less file.txt`
+- `sudo apt install build-essential dkms linux-headers-$(uname -r)`
+- `uname -a`
+- `sudo reboot`

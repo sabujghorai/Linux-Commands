@@ -1,4 +1,5 @@
 
+
 # 📚 Commands Learned So Far
 
 ## Day 01
@@ -49,3 +50,7 @@ ln -h - Practical Linux file management
 - `sudo apt install build-essential dkms linux-headers-$(uname -r)`
 - `uname -a`
 - `sudo reboot`
+
+## Linux Commands with VIM
+- `vim`
+-  "the vim is used to write text inside a file "
